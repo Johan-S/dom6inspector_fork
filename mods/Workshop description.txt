@@ -1,0 +1,107 @@
+I make mods for fun, not profit, but if you enjoy my mods and would like to tip me for my work you can do so on Kofi: https://ko-fi.com/sombrewarhammer
+
+Discuss the mod with me on Discord here: https://discord.gg/byXJKZCetK
+
+If you want to download this mod manually rather than subscribe on the workshop you can always get the latest version here: https://llamaserver.net/sombre/Dominions6/Mods/
+
+This modpack contains 6 mods.
+Sombre Warhammer
+Sombre Warhammer Poptypes
+Sombre Warhammer AI Pregenerated Pretenders
+Sombre Warhamer AI Starting Forces Boost
+Sombre Warhammer Strigos submod
+Sombre Warhammer Ghrond submod
+Disable MA Vanilla Nations
+
+Important: Only enable either Sombre Warhammer Current Version or one Sombre Warhammer Static Version at a time. If you're playing a multiplayer game I STRONGLY recommend using the Static version, or you risk the game breaking if I update the mod.
+
+Latest changes:
+
+See my Kofi for full changelog: https://ko-fi.com/sombrewarhammer
+
+
+--- Sombre Warhammer 1.7 ---
+
+Adds a selection of 28 Warhammer nations to the Middle Age. 27 either entirely created or extensively updated for Dominions 6 by Sombre and 1 nation created by Sasooli. The nations added here and their titles ingame are:
+Araby (Araby)
+Beastmen (Beastlands)
+Bretonnia (Bretonnia)
+Cathay (Cathay)
+Chaos Dwarfs (Zharr-Naggrund)
+Dark Elves (Naggarond)
+Dwarfs (Karaz-a-Karak)
+Khorne (Khorne)
+Kislev (Kislev)
+The Empire (Altdorf)
+The Empire (Nuln)
+The Empire (Middenheim)
+Greenskins (Black Crag)
+Greenskins (Bone Nose Tribe)
+High Elves (Ulthuan)
+Lizardmen (Itza)
+Norsca (Norsca)
+Nurgle (Nurgle)
+Ogre Kingdoms (Goldtooth Tribe)
+Skaven (Skavenblight)
+Slaanesh (Slaanesh)
+Tilea (Tilea)
+Tomb Kings (Nehekhara)
+Tzeentch (Tzeentch)
+Undead (Nagashizzar)
+Vampires (Vampiria)
+Wood Elves (Athel Loren)
+Hobogblin Khanate (Hobgoblin Khanate)
+
+Additional credit for borrowed sprites from Sturm, Executor, Llamabest, Burnsaber, Deathjester, Mormacil.
+
+Compatibility: This mod uses a wide range of monster, site, weapon, armour, montag, nametype, nation etc IDs. Consequently it is very unlikely to be compatible with other mods which add substantive content. No effort has been made to avoid IDs used by other mods. It is guaranteed to be compatible with LA Warka and of course with the Sombre Warhammer Poptype mod.
+
+
+--- Sombre Warhammer Poptype 2.1 ---
+
+A submod to allow Sombre's Warhammer nations to replace independent recruitables and independent province defence with national recruitables and PD. This mod only works in conjunction with and REQUIRES the Sombre Warhammer mod. It is included in the Sombre Warhammer modpack on the Steam Workshop.
+
+Compatibility: This mod will ONLY work with Sombre Warhammer enabled. It should never be used separately from that mod.
+
+
+--- Sombre Warhammer AI Pregenerated Pretenders 1.4 ---
+
+A submod which requires the use of Sombre Warhammer. All this mod does is provide AI controlled Warhammer nations with a selection of pregenerated Pretender builds. These builds use more points than usual (roughly equivalent to the bonus points from a master AI I think), all the Pretenders are awake, and they all have Dominion score of 6. This should help the AI have more thematic, interesting, and useful scales and blesses. Using this mod should increase the challenge Warhammer nations provide in single player considerably.
+
+Compatibility: This mod will ONLY work with Sombre Warhammer enabled. It should never be used separately from that mod.
+
+
+--- Sombre Warhammer AI Starting Forces Boost 1.7 ---
+
+A submod which requires the use of Sombre Warhammer. All this mod does is gives every AI controlled Warhammer nation an additional starting army and several basic priests. This should help the AI with early expansion, providing a better single player experience.
+
+Compatibility: This mod will ONLY work with Sombre Warhammer enabled. It should never be used separately from that mod.
+
+
+--- Sombre Warhammer AI Starting Force Super Boost 1.1 ---
+
+A submod which requires the use of Sombre Warhammer. All this mod does is gives every AI controlled Warhammer nation even bigger and entirely additional starting forces, mages, and several priests. This should turbo charge AI expansion, providing a better single player experience. This can be used in addition to the Starting Forces Boost submod, but be aware it grants additional forces about 3x larger than that, so if you use both the Warhammer AIs will have about 5x the normal starting forces!
+
+Compatibility: This mod will ONLY work with Sombre Warhammer enabled. It should never be used separately from that mod.
+
+
+--- Sombre Warhammer Strigos submod 1.2 ---
+
+A submod that allows the selection of the Strigos nation, which is basically all the Strigoi bloodline content from Vampiria without the other bits.
+
+Compatibility: This mod will ONLY work with Sombre Warhammer enabled. It should never be used separately from that mod. You must enable this mod AFTER enabling sombre warhammer for the load order to work correctly.
+
+
+--- Sombre Warhammer Ghrond submod 1.0 ---
+
+This is a submod that allows the selection of the Cult of Pleasure nation (Ghrond), which is basically all the Pleasure Cult content from Naggarond but flipped around to be sacred rather than heretical and without the elements that are at odds with the Cult of Pleasure, such as Executioners of Khaine, Death Hags and so on.
+
+Compatibility: This mod will ONLY work with Sombre Warhammer enabled. It should never be used separately from that mod. You must enable this mod AFTER enabling sombre warhammer for the load order to work correctly.
+
+
+--- Disable Vanilla MA 1.1 ---
+
+A simple mod packaged with Sombre Warhammer which moves all the Middle Age vanilla nations into the Early Age. This is intended to allow people to play games with random nations where they only get Warhammer Nations, not vanilla nations.
+
+Compatibility: Should be compatible with any mod that doesn't use the base game MA nation IDs (except the One Age Mod, obviously)
+
